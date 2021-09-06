@@ -1,6 +1,7 @@
 # Minigames em Java!
 
-Aqui você encontrará 5 minigames utilizando a linguagem Java. São eles: Caminho Minado, Campo Minado, Jogo da Velha,Racha-cuca e Sudoku.
+Aqui você encontrará 5 minigames utilizando a linguagem Java. 
+São eles: Caminho Minado, Campo Minado, Jogo da Velha, Racha-cuca e Sudoku.
 
 ## Caminho Minado
 
